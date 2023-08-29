@@ -1,2 +1,2 @@
-# Note: some projects require dowload as they are vizulizations done in Tableau 
+# Note: Some projects require a dowload to view 
 
